@@ -20,3 +20,8 @@ Steps:
 - Reboot your device and then open up Thonny (Python IDE)
 - Make sure to be in regular mode and then change your interpreter to the python version from the Virtual Environment
 - You can now try out the program given on this project
+
+About the programs
+- ncnn conversion: Better optimization for raspberry pi models.
+- yolo.py: General object detection.
+- yolo2.py: Specific object detection such as bottle, person, etc. It will also count how many times a certain detection appears with the help of PIR sensor.
